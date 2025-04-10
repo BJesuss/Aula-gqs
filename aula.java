@@ -1,5 +1,6 @@
+package src.gqs.com.aula;
 public class aula{
     public static void main(String[]args){
-        System.out.println("Hello java in vs code");
+        System.out.println("Hello java in Codespace");
     }
 }
