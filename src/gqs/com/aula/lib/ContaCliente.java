@@ -1,4 +1,5 @@
-package src.gqs.com.aula;
+package lib;
+
 
 public class ContaCliente{
     private int Id;
